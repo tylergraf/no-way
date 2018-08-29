@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "dependencies": {
     "@polymer/lit-element": "^0.5.2",
-    "@polymer/polymer": "^3.0.5"
+    "@polymer/polymer": "^3.0.5",
+    "wc-i18n": "github:fs-webdev/wc-i18n#es-module"
   },
   "devDependencies": {
     "@polymer/iron-demo-helpers": "^3.0.0-pre.19",
